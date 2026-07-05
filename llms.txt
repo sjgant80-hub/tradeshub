@@ -1,0 +1,40 @@
+# TradesHub
+
+> Trades showroom for FallHub. Sovereign AI-first operating system configured for plumbers, electricians, decorators, gas engineers, landscapers, roofers, and builders. Service-area kernel with rates, specialities, cert tracking. Quote jobs in seconds. Schedule callouts around emergencies. Chase money on schedule. Never miss a review. Published by AI-Native Solutions. MIT. ◊·κ=1.
+
+## What it is
+
+TradesHub is a vertical showroom pointing at:
+- FallHub's trades vertical template
+- FallForge's concierge installer
+- The trades module stack (FallAccount, FallCRM Elite, FallSecurity, FallBrief, Botler, Cassie Oracle)
+
+Any independent tradesperson or small trades team can deploy FallHub with the TradesHub configuration and get an AI-first operating system that handles quote enquiries, callout scheduling, invoice chasing, review responses, and certificate tracking.
+
+## Signature feature: service-area kernel
+
+TradesHub's kernel encodes: business name, trade, cert numbers (Gas Safe / NICEIC / etc), service area (postcode centre + radius), specialities, not-offered list, callout rate, hourly rate, emergency multiplier, insurance details, chase cadence.
+
+The AI can't quote outside the service radius. Can't promise specialities not offered. Can't undercut rates. Automatically flags certificate expiries 45 days ahead.
+
+## Modules typically installed on TradesHub instances
+
+- FallAccount — bookkeeping, VAT, MTD, mileage tracking
+- FallCRM Elite — customer + property history, warranty tracking
+- FallSecurity — GDPR for customer data, DBS records, insurance evidence
+- FallBrief — Consumer Rights Act 2015 dispute wording, warranty clauses
+- Botler — in-browser LLM for on-van drafting (patchy signal on remote jobs)
+- Cassie Oracle — local competitor watch, rate benchmarking
+
+## Live surfaces
+
+- Showroom: https://sjgant80-hub.github.io/tradeshub/
+- Concierge install: https://sjgant80-hub.github.io/fallforge/install.html
+- Vertical spec: https://sjgant80-hub.github.io/fallhub/verticals/trades.html
+- Modules marketplace: https://sjgant80-hub.github.io/fallhub/modules.html
+- Repo: https://github.com/sjgant80-hub/tradeshub
+- Reference implementation: https://github.com/sjgant80-hub/plumber-lead-machine
+
+## Publisher
+
+AI-Native Solutions · https://www.ai-nativesolutions.com/ · hello@ai-nativesolutions.com
